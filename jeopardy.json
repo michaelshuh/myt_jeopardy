@@ -1,0 +1,27 @@
+{
+    "title": "Blah",
+    "author": "Chris cheng",
+    "categories": [
+        {"cat1": "Category 1"},
+        "cat2",
+        "cat3",
+        "cat4",
+        "cat5",
+        "cat6"
+    ],
+
+    "questions": {
+        "cat1": [
+            {
+                "price": 200,
+                "question": "What is blah?",
+                "answer": "Blargh"
+            }
+        ],
+        "cat2": [
+            {
+
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+.tile {
+    padding: 30px 5px;
+    background-color: blue;
+    color: yellow;
+    border: 3px black solid;
+}
+
+.category {
+    border-bottom: 10px black solid;
+}
+
+.category .tile {
+    color: white;
+    font-size: x-large;
+}
+
+.question {
+    font-size: xx-large;
+}
+
+#loadGame {
+    display: none;
+}
